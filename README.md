@@ -2,7 +2,7 @@
 ## DAA Assignment
 
 <dd>This repository contains the code for MinMax Algorithm consisting of :</dd>
-<dd>Python src code using inbuilt stack</dd> 
+<li>Python src code using inbuilt stack</li> 
 ---
 
 
