@@ -3,7 +3,8 @@
 
 <dd>This repository contains the code for MinMax Algorithm consisting of :</dd>
 <dd>Python src code using inbuilt stack</dd> 
-  <dd>---</dd>
+---
+
 
 *The Max-Min Problem in algorithm analysis is finding the maximum and minimum value in an array.*
 
