@@ -4,7 +4,7 @@
 <dd>This repository contains the code for MinMax Algorithm consisting of :</dd>
 <li>Python src code using inbuilt stack</li> 
  <br/>
-*The Max-Min Problem in algorithm analysis is finding the maximum and minimum value in an array.*
+The Max-Min Problem in algorithm analysis is finding the maximum and minimum value in an array.
 
 ### There are two methods to implement MinMax Algorithm: 
 ### <li> Naive Method :</li>
