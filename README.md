@@ -1,7 +1,12 @@
 # MinMaxAlgorithm
 ## DAA Assignment
 
-<dd>This repository contains the code for MinMax Algorithm consisting of :</dd>
+### Problem Statement
+A data of marks of 1000 students appeared in JEE exams is to be generated using random number generator in python. The data values must be in between 10-90.
+Write a program in python [recursive and iterative] to find Maximum and Minimum value from the list [use min_max algorithm] How to use inbuilt stack in python. 
+
+
+### <dd>This repository contains the code for MinMax Algorithm consisting of :</dd>
 <li>Python src code using inbuilt stack</li> 
  <br/>
 The Max-Min Problem in algorithm analysis is finding the maximum and minimum value in an array.
